@@ -1,5 +1,5 @@
 python3 train.py \
-       --data_file=data/eecs349-data.txt \
+       --data_file=data/mobydick.txt \
        --num_epochs=50 \
        --hidden_size=256 \
        --num_layers=1 \
