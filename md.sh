@@ -5,6 +5,6 @@ python3 trainmd.py \
        --num_layers=1 \
        --model="rnn" \
        --batch_size=64 \
-       --output_dir=output \
+       --output_dir=moby \
 
 tensorboard --logdir=large/tensorboard_log/ --port=6007
